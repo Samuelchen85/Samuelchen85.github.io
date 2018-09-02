@@ -76,7 +76,7 @@ body {
 
 #sidenavBtn {
     position: absolute !important;
-    padding: 2px !important; 
+    padding: 2px !important;
     top: 0 !important;
     right: 7px !important;
     font-size: 35px !important;
@@ -89,7 +89,7 @@ body {
     z-index: 9;
     top: 0;
     left: 0;
-    background-color: #e09f14;
+    background-color: #424242;
     opacity: 0.8;
     overflow-x: hidden;
     transition: 0.3s;
