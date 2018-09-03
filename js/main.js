@@ -65,10 +65,10 @@ var main = (function () {
         };
         Singleton.defaultOptions = {
             "about.txt": "My name is Samuel Chan, a CS Ph.D, a software engineer, a blockchain believer and enthusiast, entrepreneur, father, husband, and perhaps more ..., feel free to contact me if you are interested in any projects I put on github. Check contact file to see my email.",
-            "credits.txt": "This website was made using only pure JavaScript with no extra libraries.\nCredits to: luisbraganca@protonmail.com",
             "resume.txt": "\n<b>Samuel Chen</b>\nEmail: ustccmchen@gmail.com\n\nWork Experience:\n-Nebulas.io, present, Beijing, Chief Architect\n-Whova Inc. 4 years, San Diego, CA, Founding team member, team lead, project manager\n\nEducation: \n-2014, Postdoctoral research scholar at UCSD\n-2013, Ph.D in Computer Architecture from CAS\n-2007, B.S in EE, from USTC\n\nResearch:\n-parallel program analysis, especially in May-Happen-In-Parallel\n-pointer analysis, especially in flow-sensitive and context-sensitve pointer analysis\n-blockchain, especially in blockchain architecture\n",
             "contact.txt": "ustccmchen@gmail.com",
             "github.txt": "You may check my github here: https://github.com/Samuelchen85",
+            "credits.txt": "This website was made using only pure JavaScript with no extra libraries.\nCredits to: luisbraganca@protonmail.com",
         };
         return {
             getInstance: function (options) {
