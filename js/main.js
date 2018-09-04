@@ -43,8 +43,8 @@ var main = (function () {
             accesible_cores: "Accessible cores",
             language: "Language",
             value_token: "<value>",
-            host: "github.com",
-            user: "guest",
+            host: "github.io",
+            user: "visitor",
             is_root: false,
             type_delay: 20
         };

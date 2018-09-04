@@ -8,7 +8,7 @@ html, body {
 }
 body {
     font-size: 13pt;
-    font-family: monospace;
+    font-family: sans-serif;
     color: white;
     background-color: black;
 }
@@ -90,7 +90,7 @@ body {
     top: 0;
     left: 0;
     background-color: #424242;
-    opacity: 0.8;
+    opacity: 0.9;
     overflow-x: hidden;
     transition: 0.3s;
     padding-top: 60px;
